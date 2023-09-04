@@ -6,4 +6,4 @@
 
 
 
-![main_screen1](https://github.com/arjanoop/PriOSS/blob/master/screenshot/main_screen1.png)https://github.com/arjanoop/PriOSS/blob/master/screenshot/main_screen1.png)
+![main_screen1](https://github.com/arjanoop/PriOSS/blob/master/screenshot/main_screen1.png)
