@@ -30,7 +30,7 @@ Before running the project, make sure you have the following prerequisites insta
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <[repository-url](https://github.com/arjanoop/PriOSS.git)>
+   git clone https://github.com/arjanoop/PriOSS.git
    ```
 
 2. Navigate to the project directory:
