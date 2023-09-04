@@ -75,7 +75,7 @@ Contributions are welcome! If you want to improve this project or fix any issues
 
 ## Snapshots
 
-Mian Screen [Streaming History & Inferred Playlist]
+Main Screen [Streaming History & Inferred Playlist]
 ![main_screen1](https://github.com/arjanoop/PriOSS/blob/master/screenshot/main_screen1.png)
 
 User Details
